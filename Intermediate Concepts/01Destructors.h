@@ -1,3 +1,5 @@
+// The header file (.h) holds the function declarations (prototypes) and variable declarations.
+// The implementation of the class and its methods go into the source file (.cpp).
 class MyClass
 {
 public:
